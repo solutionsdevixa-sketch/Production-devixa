@@ -1,0 +1,15 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="devixaGold" x1="16" y1="12" x2="78" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="devixaBlue" x1="21" y1="72" x2="78" y2="27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <path d="M31 72C34 58 34 38 34 23C47 18 68 21 71 39C74 57 57 68 34 65" stroke="url(#devixaGold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 73C38 79 64 77 79 63" stroke="url(#devixaBlue)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 18L73.4 21.8L77.2 23.2L73.4 24.6L72 28.5L70.6 24.6L66.8 23.2L70.6 21.8L72 18Z" fill="#FBBF24"/>
+</svg>
